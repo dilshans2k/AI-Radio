@@ -2,6 +2,7 @@
 A Flutter application that can interact with the user and play their music on
 radio of their choice with their voice.
 
+Available at: https://play.google.com/store/apps/details?id=com.dilshansandhu.airadio
 
 ## Screenshots
 
